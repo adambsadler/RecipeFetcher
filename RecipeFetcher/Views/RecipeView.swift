@@ -57,6 +57,8 @@ struct RecipeView: View {
             
             if isExpanded {
                 VStack {
+                    Text(recipe.cuisine)
+                    
                     if let image = largeImage {
                         Image(uiImage: image)
                             .resizable()

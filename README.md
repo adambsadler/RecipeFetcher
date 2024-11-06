@@ -15,7 +15,7 @@ I started off building out the NetworkManager object along with the Recipe model
 I spent about 4 hours on this project all together. I mostly divided my time equally between planning out the project, building out the networking layer with needed utilities, building out the UI, and then writing unit tests and testing on a physical device.
 
 ### Trade-offs and Decisions: Did you make any significant trade-offs in your approach?
-I feel like I didn't put as much time into the UI as I would have liked to. I'm used to working with UX designer who provide designs to work from, so planning out the UI from scratch took a bit longer than usual.
+I feel like I didn't put as much time into the UI as I would have liked to. I'm used to working with UX designers who provide designs to work from, so planning out the UI from scratch took a bit longer than usual.
 
 ### Weakest Part of the Project: What do you think is the weakest part of your project?
 I would say the weakest part would be the UI and I would have liked to spend more time on that.
@@ -24,4 +24,4 @@ I would say the weakest part would be the UI and I would have liked to spend mor
 I did not use any external libraries or dependencies.
 
 ### Additional Information: Is there aything else we should know? Feel free to share any insights or constraints you encountered.
-This was a fun little project!
+This was a fun little project! I took the opportunity to try out the new Swift Testing framework for unit tests and really liked it so far. I also decided to create a custom YouTube viewer that coverts the provided URL into an embeded URL using the video ID. This allows the user to easily watch the videos that are available directly in the app.
